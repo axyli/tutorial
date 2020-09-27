@@ -15,4 +15,4 @@
 * данные
 * ветвления
 
-http://joxi.ru/DmBb187T4Bp80m
+![пример](http://joxi.ru/DmBb187T4Bp80m)

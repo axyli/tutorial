@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df33198f-30f0-40de-96df-8433e48b57cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Databases/postgres" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="976" y="409" width="591" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601007917654">
+      <screen x="0" y="24" width="2560" height="1392" />
+    </state>
+    <state x="976" y="409" width="591" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.24.2560.1392@0.24.2560.1392" timestamp="1601007917654" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

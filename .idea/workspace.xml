@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df33198f-30f0-40de-96df-8433e48b57cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/information architecture/integration_architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/information architecture/rest_vs_soap.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/questions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
